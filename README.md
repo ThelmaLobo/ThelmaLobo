@@ -2,7 +2,7 @@
 
 🛡️ Cybersecurity Enthusiast | Risk & Compliance Professional 
 
-Hi there! I’m a tech risk advisor with 3+ years in Big 4, helping businesses stay secure, compliant, and resilient. I’ve conducted physical security audits at data centres, navigated SLA frameworks, and now leveling up with hands-on cyber labs, breaking things (ethically), and building resilience into systems that matter.
+Hi there! I’m a tech risk advisor with an experience in Big 4, helping businesses stay secure, compliant, and resilient. I’ve conducted physical security audits at data centres, navigated SLA frameworks, and now leveling up with hands-on cyber labs, breaking things (ethically), and building resilience into systems that matter.
 
 👩🏽‍💻 Currently focused on sharpening my technical skills in cyber security.
 
