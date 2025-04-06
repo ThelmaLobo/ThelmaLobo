@@ -14,14 +14,14 @@ Hi there! I’m a tech risk advisor with 3+ years in Big 4, helping businesses s
 
 Let’s connect, collaborate, and make the digital world a safer place.
 
-<h2>👨‍💻 Cybersecurity Projects :</h2>
+<h2> 👩🏽‍💻 Cybersecurity Projects :</h2>
 
 - <b> Detailed Write-Ups </b>
   - [Android Repackaging Attack Demonstration](https://github.com/ThelmaLobo/Android_Repackaging_Attack_Demo)
   - [Pickle Rick](https://github.com/ThelmaLobo/PickRick)
  
     
- <h2>👨‍💻 My Contributions :</h2>
+ <h2>👩🏽‍💻 My Contributions :</h2>
  
 ![snake gif](https://github.com/ThelmaLobo/ThelmaLobo/blob/output/github-snake-dark.svg)
 
