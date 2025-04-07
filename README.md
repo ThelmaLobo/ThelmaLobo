@@ -6,7 +6,7 @@ Hi there! I’m a tech risk professional with an experience in Big 4, helping bu
 
 👩🏽‍💻 Currently focused on sharpening my technical skills in cyber security.
 
-🌐 Passionate about creating inclusive spaces in tech and mentoring women breaking into IT.
+🌐 Passionate about mentoring women breaking into IT.
 
 🧠 Always learning, always sharing — because knowledge only grows when it's shared.
 
