@@ -2,7 +2,7 @@
 
 🛡️ Cybersecurity Enthusiast | Risk & Compliance Professional 
 
-Hi there! I’m a tech risk advisor with an experience in Big 4, helping businesses stay secure, compliant, and resilient. I’ve conducted physical security audits at data centres, navigated SLA frameworks, and now leveling up with hands-on cyber labs, breaking things (ethically), and building resilience into systems that matter.
+Hi there! I’m a tech risk professional with an experience in Big 4, helping businesses stay secure, compliant, and resilient. I’ve conducted physical security audits at data centres, navigated SLA frameworks, and now leveling up with hands-on cyber labs, breaking things (ethically), and building resilience into systems that matter.
 
 👩🏽‍💻 Currently focused on sharpening my technical skills in cyber security.
 
@@ -12,7 +12,7 @@ Hi there! I’m a tech risk advisor with an experience in Big 4, helping busines
 
 Let’s connect, collaborate, and make the digital world a safer place.
 
-<h2> 👩🏽‍💻 Cybersecurity Projects :</h2>
+<h2> 👩🏽‍💻 Current Progress :</h2>
 
 - <b> Detailed Write-Ups </b>
   - [Android Repackaging Attack Demonstration](https://github.com/ThelmaLobo/Android_Repackaging_Attack_Demo)
