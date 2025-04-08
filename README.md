@@ -15,6 +15,11 @@
 
 <h2> About me :</h2>
 
+
+<img width="380" align="right" alt="Github"
+ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/Icons/developer-girl.gif" 
+/> 
+
 🛡️ Cybersecurity Enthusiast | Technology Risk Professional 
 
 Hi there! I’m a tech risk professional with an experience in Big 4, helping businesses stay secure, compliant, and resilient. I’ve conducted physical security audits at data centres, navigated SLA frameworks, and now leveling up with hands-on cyber labs, breaking things (ethically), and building resilience into systems that matter.
