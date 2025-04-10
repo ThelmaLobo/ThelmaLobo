@@ -37,6 +37,7 @@ Let’s connect, collaborate, and make the digital world a safer place.
 - <b> Detailed Write-Ups </b>
   - [Android Repackaging Attack Demonstration](https://github.com/ThelmaLobo/Android_Repackaging_Attack_Demo)
   - [Pickle Rick](https://github.com/ThelmaLobo/PickRick)
+  - [Cyber Lens](https://github.com/ThelmaLobo/Cyber_Lens)
  
 Stay tuned in, I will be adding more write-ups under this space :)
  
