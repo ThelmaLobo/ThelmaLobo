@@ -13,7 +13,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Thelma+Lobo!;" />
 </h1>
 
-<h2> About me :</h2>
+<h2> $ whoami :</h2>
 
 
 <img width="380" align="right" alt="Github"
