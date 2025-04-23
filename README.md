@@ -38,6 +38,7 @@ Let’s connect, collaborate, and make the digital world a safer place.
   - [Android Repackaging Attack Demonstration](https://github.com/ThelmaLobo/Android_Repackaging_Attack_Demo)
   - [Pickle Rick](https://github.com/ThelmaLobo/PickRick)
   - [Cyber Lens](https://github.com/ThelmaLobo/Cyber_Lens)
+  - [Jurassic Park](https://github.com/ThelmaLobo/Jurassic-Park)
  
 Stay tuned in, I will be adding more write-ups under this space :)
  
